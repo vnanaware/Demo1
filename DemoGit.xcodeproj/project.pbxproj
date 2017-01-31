@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					B067FC2E1E40D55600126B52 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 4X79D946AJ;
 						ProvisioningStyle = Automatic;
 					};
 					B067FC471E40D55A00126B52 = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4X79D946AJ;
 				INFOPLIST_FILE = DemoGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.syneotek.DemoGit;
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4X79D946AJ;
 				INFOPLIST_FILE = DemoGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.syneotek.DemoGit;
